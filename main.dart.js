@@ -61362,7 +61362,7 @@ o.tD(A.anI(q,q,r,!0,q,new A.Yq(this.a),p,!1,q,q,s,B.vG,!0,t.z))},
 $S:0}
 A.Yq.prototype={
 $1(a){var s=null
-return new A.mR(A.dH("Reset all progress?",s),A.dH("If you choose confirm, all your progress will be irrevocably lost.",s),A.d([A.aaT(A.dH("Abort",s),new A.Yo(a)),A.aaT(A.dH("Confirm",s),new A.Yp(this.a,a))],t.E),s)},
+return new A.mR(A.dH("Reset all progress?",s),A.dH("If you select 'Confirm', all your progress will be irrevocably lost.",s),A.d([A.aaT(A.dH("Abort",s),new A.Yo(a)),A.aaT(A.dH("Confirm",s),new A.Yp(this.a,a))],t.E),s)},
 $S:419}
 A.Yo.prototype={
 $0(){A.tT(this.a,!1).ep()},
