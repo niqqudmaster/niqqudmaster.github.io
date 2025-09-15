@@ -61174,11 +61174,11 @@ break}l=p[m]
 k=q.b
 k===$&&A.b()
 j=l.a
-i=A.kl(k.a.j(0,"modernHebrew-word"+B.h.k(j)))
+i=A.kl(k.a.j(0,"niqqudMaster-word"+B.h.k(j)))
 s=i==null?5:7
 break
 case 5:s=8
-return A.M(q.b.lu("Int","modernHebrew-word"+B.h.k(j),0),$async$oR)
+return A.M(q.b.lu("Int","niqqudMaster-word"+B.h.k(j),0),$async$oR)
 case 8:s=6
 break
 case 7:n.m(0,j,i)
@@ -61191,11 +61191,11 @@ oQ(){var s=0,r=A.J(t.z),q=this,p,o
 var $async$oQ=A.D(function(a,b){if(a===1)return A.G(b,r)
 while(true)switch(s){case 0:o=q.b
 o===$&&A.b()
-p=A.kl(o.a.j(0,"modernHebrew-numberUnlocked"))
+p=A.kl(o.a.j(0,"niqqudMaster-numberUnlocked"))
 s=p==null?2:4
 break
 case 2:s=5
-return A.M(q.b.lu("Int","modernHebrew-numberUnlocked",10),$async$oQ)
+return A.M(q.b.lu("Int","niqqudMaster-numberUnlocked",10),$async$oQ)
 case 5:s=3
 break
 case 4:q.d=p
@@ -61207,7 +61207,7 @@ var $async$mH=A.D(function(b,c){if(b===1)return A.G(c,r)
 while(true)switch(s){case 0:p=q.b
 p===$&&A.b()
 s=2
-return A.M(p.lu("Int","modernHebrew-word"+B.h.k(a),q.kR(a)),$async$mH)
+return A.M(p.lu("Int","niqqudMaster-word"+B.h.k(a),q.kR(a)),$async$mH)
 case 2:return A.H(null,r)}})
 return A.I($async$mH,r)},
 pC(){var s=0,r=A.J(t.z),q=this,p
@@ -61215,7 +61215,7 @@ var $async$pC=A.D(function(a,b){if(a===1)return A.G(b,r)
 while(true)switch(s){case 0:p=q.b
 p===$&&A.b()
 s=2
-return A.M(p.lu("Int","modernHebrew-numberUnlocked",q.d),$async$pC)
+return A.M(p.lu("Int","niqqudMaster-numberUnlocked",q.d),$async$pC)
 case 2:return A.H(null,r)}})
 return A.I($async$pC,r)},
 di(){var s=0,r=A.J(t.z),q=this,p,o,n,m,l
@@ -61226,14 +61226,14 @@ break}m=p[n]
 l=q.b
 l===$&&A.b()
 s=5
-return A.M(l.lu("Int","modernHebrew-word"+B.h.k(m.a),0),$async$di)
+return A.M(l.lu("Int","niqqudMaster-word"+B.h.k(m.a),0),$async$di)
 case 5:case 3:p.length===o||(0,A.y)(p),++n
 s=2
 break
 case 4:p=q.b
 p===$&&A.b()
 s=6
-return A.M(p.lu("Int","modernHebrew-numberUnlocked",10),$async$di)
+return A.M(p.lu("Int","niqqudMaster-numberUnlocked",10),$async$di)
 case 6:s=7
 return A.M(q.oR(),$async$di)
 case 7:s=8
