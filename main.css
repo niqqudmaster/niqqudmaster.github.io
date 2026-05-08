@@ -12,13 +12,19 @@ em {
 
 body {
 	background-image: url(background.png);
+	background-size: 100% 100%;
 	color: #fffefc;
 	margin: 2vh 4vw 2vh 4vw;
 }
 
-header {	
+header {
 	margin: auto;
 	max-width: 27cm;
+	padding-bottom: 1vh;
+}
+
+header img {
+	width: 40%;
 }
 
 section {
@@ -29,7 +35,7 @@ section {
 
 footer {
 	color: #e4db14;
-	padding-top: 4vh;
+	padding-top: 6vh;
 }
 
 h1 {
